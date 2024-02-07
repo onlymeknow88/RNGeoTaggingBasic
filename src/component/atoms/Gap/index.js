@@ -3,7 +3,7 @@ import { View } from 'react-native'
 
 const Gap = ({width, height}) => {
   return (
-    <View style={{height: height, width: height}}/>
+    <View style={{height: height, width: width}}/>
   )
 }
 
