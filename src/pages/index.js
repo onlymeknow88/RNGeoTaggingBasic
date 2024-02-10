@@ -1,3 +1,4 @@
+import Home from "./Home";
 import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import SplashScreen from "./SplashScreen";
@@ -5,5 +6,6 @@ import SplashScreen from "./SplashScreen";
 export {
     SplashScreen,
     SignIn,
-    SignUp
+    SignUp,
+    Home
 }

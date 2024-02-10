@@ -1,5 +1,5 @@
-import Header from "./Header";
+import BottomNavigator from './BottomNavigator';
+import Header from './Header';
+import Loading from './Loading';
 
-export {
-    Header
-}
+export {Header, Loading, BottomNavigator};
